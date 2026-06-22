@@ -8,7 +8,7 @@ En este 4to dia aprendi los **7 pasos básicos en Linux** que realice durante la
 ```bash
 echo "Hola Linux" > demo.txt
 ls -l demo.txt
-## Paso 2: Ver contenido
+## 🔹 Paso 2: Ver contenido
 cat demo.txt
 ## Paso 3: Listar archivo
 ls -l demo.txt
