@@ -24,6 +24,7 @@ ls -l demo.txt
 ## Paso 4: Cambiar permisos
 chmod 644 demo.txt
 ls -l demo.txt
+
 ---
 
 ## Paso 5: Cambiar propietario
@@ -46,4 +47,4 @@ pkill nano
 
 ---
 
-![Captura Paso 4]()
+![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180646.png)
