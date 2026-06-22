@@ -50,8 +50,9 @@ ps aux | head -10 <br> top
 ---
 
 ## Paso 7: Finalizar procesos
+```
 pkill nano
-
+```
 ---
 
 ![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180646.png)
