@@ -10,7 +10,7 @@ Acivamos el Adaptador 1 en modo NAT (Esto nos permite que la VM use la conexion 
 ## Probar la conexion a Internet
 
 Usamos:  
-ping -c4.8.8.8.8 <b>  
+"""ping -c4.8.8.8.8"""  
 ya que nos permite probar la conexión con el servidor DNS de Google usando la IP.
 
 ![Captura Paso 4](Probar%20conexion.png)
