@@ -18,14 +18,12 @@ cat demo.txt
 ## Paso 3: Listar archivo
 ls -l demo.txt
 
+![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180427.png)
 ---
 
 ## Paso 4: Cambiar permisos
 chmod 644 demo.txt
 ls -l demo.txt
-
-![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180427.png)
-
 ---
 
 ## Paso 5: Cambiar propietario
