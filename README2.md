@@ -38,6 +38,8 @@ ls -l demo.txt
 ps aux | head -10
 top
 
+![Captura Paso 4]()
+![Captura Paso 4]()
 ---
 
 ## Paso 7: Finalizar procesos
@@ -45,4 +47,4 @@ pkill nano
 
 ---
 
-![Captura Paso 4](img/paso4.png)
+![Captura Paso 4]()
