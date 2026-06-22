@@ -30,5 +30,5 @@ Tecleamos en la terminal:
 ip a  
 Esto nos muestra tus interfaces de red y direcciones IP
 
-![Captura Paso 4]()
+![Captura Paso 4](Ver%20config.%20de%20red.png)
 
