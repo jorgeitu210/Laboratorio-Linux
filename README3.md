@@ -13,7 +13,7 @@ Usamos:
 ping -c4.8.8.8.8 <b>  
 ya que nos permite probar la conexión con el servidor DNS de Google usando la IP.
 
-![Captura Paso 4]()
+![Captura Paso 4](Probar%20conexion.png)
 ---
 
 ## Probar resolucion de nombres (DNS)
