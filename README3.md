@@ -12,7 +12,7 @@ Acivamos el Adaptador 1 en modo NAT (Esto nos permite que la VM use la conexion 
 Usamos:  
 ```
 ping -c4.8.8.8.8
-```  
+```
 ya que nos permite probar la conexión con el servidor DNS de Google usando la IP.
 
 ![Captura Paso 4](Probar%20conexion.png)
@@ -21,7 +21,9 @@ ya que nos permite probar la conexión con el servidor DNS de Google usando la I
 ## Probar resolucion de nombres (DNS)
 
 Colocamos en nuestra terminal  
-ping -c 4 google.com  
+```
+ping -c 4 google.com
+```
 Lo cual prueba que la VM puede resolver nombres de dominio a direcciones IP. (Si funciona, la DNS esta configurada correctamente)
 
 ---
@@ -29,7 +31,9 @@ Lo cual prueba que la VM puede resolver nombres de dominio a direcciones IP. (Si
 ## Ver la configuración de red
 
 Tecleamos en la terminal:  
-ip a  
+```
+ip a
+```
 Esto nos muestra tus interfaces de red y direcciones IP
 
 ![Captura Paso 4](Ver%20config.%20de%20red.png)
