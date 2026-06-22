@@ -34,8 +34,7 @@ ls -l demo.txt
 ---
 
 ## Paso 6: Ver procesos
-ps aux | head -10  
-top
+ps aux | head -10 <br> top
 
 ![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180557.png)
 ---
