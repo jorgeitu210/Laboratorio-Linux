@@ -4,18 +4,18 @@ En este 4to dia aprendi los **7 pasos básicos en Linux** que realice durante la
 
 ---
 
-## Paso 1: Crear archivo
-echo "Hola Linux" > demo.txt
-ls -l demo.txt
+## Paso 1: Crear usuario nuevo
+sudo adduser prueba
 
 ---
 
-## Paso 2: Ver contenido
-cat demo.txt
+## Paso 2: Cambiar contraseña de usuario
+sudo passwd prueba
 
 ---
 
-## Paso 3: Listar archivo
+## Paso 3: Crear archivo y revisar permisos
+echo "Hola Linux" > demo.txt  
 ls -l demo.txt
 
 ![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180427.png)
