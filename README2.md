@@ -22,19 +22,19 @@ ls -l demo.txt
 ---
 
 ## Paso 4: Cambiar permisos
-chmod 644 demo.txt
+chmod 644 demo.txt  
 ls -l demo.txt
 
 ---
 
 ## Paso 5: Cambiar propietario
-sudo chown prueba demo.txt
+sudo chown prueba demo.txt  
 ls -l demo.txt
 
 ---
 
 ## Paso 6: Ver procesos
-ps aux | head -10
+ps aux | head -10  
 top
 
 ![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180557.png)
