@@ -9,19 +9,20 @@ En este 4to dia aprendi los **7 pasos básicos en Linux** que realice durante la
 echo "Hola Linux" > demo.txt
 ls -l demo.txt
 ## 🔹 Paso 2: Ver contenido
+```bash
 cat demo.txt
-## Paso 3: Listar archivo
+## 🔹 Paso 3: Listar archivo
 ls -l demo.txt
-## Paso 4: Cambiar permisos
+## 🔹 Paso 4: Cambiar permisos
 chmod 644 demo.txt
 ls -l demo.txt
-## Paso 5: Cambiar propietario
+## 🔹Paso 5: Cambiar propietario
 sudo chown prueba demo.txt
 ls -l demo.txt
-## Paso 6: Ver procesos
+## 🔹Paso 6: Ver procesos
 ps aux | head -10
 top
-## Paso 7: Finalizar procesos
+## 🔹Paso 7: Finalizar procesos
 pkill nano
 
 ![Captura Paso 4](img/paso4.png)
