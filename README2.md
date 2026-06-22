@@ -9,6 +9,7 @@ En este 4to dia aprendi los **7 pasos básicos en Linux** que realice durante la
 echo "Hola Linux" > demo.txt
 ls -l demo.txt
 ## 🔹 Paso 2: Ver contenido
+```bash
 cat demo.txt
 ls -l demo.txt
 chmod 644 demo.txt
