@@ -13,6 +13,7 @@ Usamos:
 ping -c4.8.8.8.8 <b>  
 ya que nos permite probar la conexión con el servidor DNS de Google usando la IP.
 
+![Captura Paso 4]()
 ---
 
 ## Probar resolucion de nombres (DNS)
@@ -28,4 +29,6 @@ Lo cual prueba que la VM puede resolver nombres de dominio a direcciones IP. (Si
 Tecleamos en la terminal:  
 ip a  
 Esto nos muestra tus interfaces de red y direcciones IP
+
+![Captura Paso 4]()
 
