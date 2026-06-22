@@ -38,7 +38,7 @@ ls -l demo.txt
 ps aux | head -10
 top
 
-![Captura Paso 4]()
+![Captura Paso 4](Captura%20de%20pantalla%202026-06-21%20180557.png)
 ![Captura Paso 4]()
 ---
 
