@@ -18,6 +18,8 @@ cat demo.txt
 ## Paso 3: Listar archivo
 ls -l demo.txt
 
+![Captura Paso 4](Captura de pantalla 2026-06-21 180427.png)
+
 ---
 
 ## Paso 4: Cambiar permisos
