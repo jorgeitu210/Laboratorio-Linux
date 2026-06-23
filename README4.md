@@ -14,6 +14,10 @@ Lo que hacemos aqui es actualizar la lista de paquetes con "sudo apt update" sol
 Despues con "sudo apt upgrade -y" se descarga e instala las actualizaciones disponibles para los paquetes ya instalados  
 y por ultimo "sudo apt install -y net-tools curl wget traceroute nmap tcpdump htop vim git" funciona para instalar los paquetes listados, el -y acepta automaticamente cualquier confirmación  
 
+![Captura Paso 4]()
+
+![Captura Paso 4]()
+
 ---
 
 # Comprobar interfaces
@@ -72,3 +76,5 @@ sirve para capturar trafico de red en tu interfaz y guardarlo en un archivo .pca
 "-c 50" captura exactamente 50 paquetes  
 "-w captura.pcap" guarda la captura en un archivo llamado captura.pcap en lugar de mostrarla en pantalla  
 Cuando lo ejecutamos la VM escucha todo el trafico que pasa, se guardan los paquetes que pueden ser pings, HTTP, DNS, etc. y se gurda un archivo captura  
+
+![Captura Paso 4]()
