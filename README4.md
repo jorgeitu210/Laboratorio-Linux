@@ -14,7 +14,7 @@ Lo que hacemos aqui es actualizar la lista de paquetes con "sudo apt update" sol
 Despues con "sudo apt upgrade -y" se descarga e instala las actualizaciones disponibles para los paquetes ya instalados  
 y por ultimo "sudo apt install -y net-tools curl wget traceroute nmap tcpdump htop vim git" funciona para instalar los paquetes listados, el -y acepta automaticamente cualquier confirmación  
 
-![Captura Paso 4]()
+![Captura Paso 4](sudo%20apt%20update.png)
 
 ![Captura Paso 4](instalar.png)
 
