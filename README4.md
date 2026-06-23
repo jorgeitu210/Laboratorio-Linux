@@ -16,7 +16,7 @@ y por ultimo "sudo apt install -y net-tools curl wget traceroute nmap tcpdump ht
 
 ---
 
-# Como usarlos  
+# Comprobar interfaces  
 ````
 ip a  
 ifconfig  
@@ -45,9 +45,9 @@ Este comando sirve para probar la conexion HTTP con un servidor y obtener unicam
 traceroute google.com
 ````
 Lo que vemos es la ruta que siguen tus paquetes desde tu VM hasta el servidor de Google, y cada linea representa un salto ó hop es decir dispositivo intermedio  
-10.0.2.2 seria el salto 1 de tu gateway en VM  
-192.250.1.1 el router fisico  
-google.com el salto final  
+"10.0.2.2" seria el salto 1 de tu gateway en VM  
+"192.250.1.1" el router fisico  
+"google.com" el salto final  
 
 ---
 
