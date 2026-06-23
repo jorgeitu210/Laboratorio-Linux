@@ -16,7 +16,7 @@ y por ultimo "sudo apt install -y net-tools curl wget traceroute nmap tcpdump ht
 
 ![Captura Paso 4]()
 
-![Captura Paso 4]()
+![Captura Paso 4](instalar.png)
 
 ---
 
