@@ -16,7 +16,7 @@ y por ultimo "sudo apt install -y net-tools curl wget traceroute nmap tcpdump ht
 
 ---
 
-# Comprobar interfaces  
+# Comprobar interfaces
 ````
 ip a  
 ifconfig  
