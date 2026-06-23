@@ -77,4 +77,4 @@ sirve para capturar trafico de red en tu interfaz y guardarlo en un archivo .pca
 "-w captura.pcap" guarda la captura en un archivo llamado captura.pcap en lugar de mostrarla en pantalla  
 Cuando lo ejecutamos la VM escucha todo el trafico que pasa, se guardan los paquetes que pueden ser pings, HTTP, DNS, etc. y se gurda un archivo captura  
 
-![Captura Paso 4]()
+![Captura Paso 4](capturar%20trafico%20de%20red.png)
